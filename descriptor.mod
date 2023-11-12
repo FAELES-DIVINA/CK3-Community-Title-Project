@@ -4,8 +4,7 @@ tags={
 	"Culture"
 	"Translation"
 }
-name="Community Title Project"
+name="Community Title Project local"
 picture="thumbnail.png"
 supported_version="1.11.*"
-path="C:/Users/Mrgcg/Documents/Paradox Interactive/Crusader Kings III/mod/CTP"
-remote_file_id="2216919487"
+path="mod/CTP"

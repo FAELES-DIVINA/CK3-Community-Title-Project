@@ -1,0 +1,8 @@
+l_{{language}}:
+{%- for line in lines %}
+{%- if line.key != "" %}
+  {{line.key}}:{{line.version}} "{{line.content}}"{% if line.comment != "" %}  # {{line.comment}}{% endif %}
+{%- else %}
+  {% if line.comment != "" %}# {{line.comment}}{% endif %}
+{%- endif %}
+{%- endfor -%}

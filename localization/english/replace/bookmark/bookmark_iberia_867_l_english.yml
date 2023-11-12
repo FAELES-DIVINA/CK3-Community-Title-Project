@@ -1,0 +1,26 @@
+﻿l_english:
+
+ # Wilfred the Hairy Loc
+ bookmark_fp2_iberia_wilfred_the_hairy:0 "$GuifrE_$ $nick_the_hairy$"
+ bookmark_fp2_iberia_sunyer:0 "$Sunyer$"
+ bookmark_fp2_iberia_bernat_of_gothia:0 "$Bernat$"
+
+# Lupp ibn Musa / Lope Musez
+ bookmark_fp2_iberia_lupp_ibn_musa:1 "$Lubb$ Muzez"
+
+ bookmark_fp2_iberia_lubb_ibn_musa_alt_mohamed:0 "Mohamed"
+ bookmark_fp2_iberia_lubb_ibn_musa_alt_oria:0 "Oria"
+
+ #Mendo Guterres of Santiago
+ bookmark_fp2_iberia_mendo_guterres:0 "Count $Hermenexildo$ Gutierrez"
+
+ bookmark_fp2_iberia_mendo_guterres_alt_arias:0 "$Arias$"
+ bookmark_fp2_iberia_mendo_guterres_alt_ermesinda:0 "Hermesinda Gatónez"
+
+ bookmark_fp2_iberia_ibn_marwan:0 "Ibn Marwan"
+ bookmark_fp2_iberia_ibn_marwan_alt_surunbaqi:0 "Emir Sa'dun of Porto"
+ bookmark_fp2_iberia_ibn_marwan_alt_rahman:0 "Abd al-Rahman"
+
+ bookmark_fp2_iberia_adanis_ibn_awsaga:0 "Emir Adanis"
+ bookmark_fp2_iberia_ibn_awsaga_alt_masud:0 "Mas'ud ibn Adanis"
+ bookmark_fp2_iberia_ibn_awsaga_alt_yahya:0 "Yahya ibn Adanis"

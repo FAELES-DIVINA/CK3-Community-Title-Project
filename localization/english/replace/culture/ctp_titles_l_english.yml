@@ -1,5 +1,6 @@
 ﻿l_english:
 
+  baron_blank: "Baron"
 ########################################################### 
  #Goidelic Culture Group
 ########################################################### 
@@ -452,7 +453,6 @@
    kingdom_republic_male_scottish: "Consule"
    kingdom_republic_female_scottish: "Consulesse"
    kingdom_republic_scottish: "Graunt Comenwele"
-   
    barony_tribe_scottish: "$barony_castle_scottish$"
 ########################################################
  #Brythonic Culture Group 
@@ -462,7 +462,7 @@
    baron_male_pictish_cumbrian: "Argot"
    baron_female_pictish_cumbrian: "Argotes"
    barony_castle_pictish_cumbrian: "Lis"
- 
+
    count_feudalclan_male_pictish_cumbrian: "[CHARACTER.Custom('CountMalePictishCumbrian')]"
    count_feudalclan_female_pictish_cumbrian: "[CHARACTER.Custom('CountFemalePictishCumbrian')]"
    county_feudalclan_pictish_cumbrian: "[CHARACTER.Custom('CountyPictishCumbrian')]"
@@ -475,12 +475,12 @@
    count_default_male_cumbrian: "Pendevik"
    count_default_female_cumbrian: "Pendevikes"
    county_default_cumbrian: "Suid"
- 
+
    count_feudalclan_male_pictish_cumbrian_independent: "Tiarn"
    count_feudalclan_female_pictish_cumbrian_independent: "Tiarnes"
    county_feudalclan_pictish_cumbrian_independent: "[CHARACTER.Custom('PictishCumbrianIndepCounty')]"
    independent_county_pictish_cumbrian: "Tiarnas"
- 
+
    duke_feudalclan_male_pictish_cumbrian: "[CHARACTER.Custom('DukeMalePictish')]"
    duke_feudalclan_female_pictish_cumbrian: "[CHARACTER.Custom('DukeFemalePictish')]"
    duchy_feudalclan_pictish_cumbrian: "[CHARACTER.Custom('DuchyPictish')]"
@@ -493,12 +493,12 @@
    duke_default_male_pictish: "Tuwissok"
    duke_default_female_pictish: "Tuwissokes"
    duchy_default_pictish: "Gwlat"
- 
+
    duke_feudalclan_male_pictish_cumbrian_independent: "Ri"
    duke_feudalclan_female_pictish_cumbrian_independent: "Rien"
    duchy_feudalclan_pictish_cumbrian_independent: "[CHARACTER.Custom('PictishCumbrianIndepDuchy')]"
    independent_duchy_pictish_cumbrian: "Rigaith"
- 
+
    king_male_pictish_cumbrian: "Breyenhin"
    king_female_pictish_cumbrian: "Breyenhines"
    kingdom_pictish_cumbrian: "Breyenhinaith"

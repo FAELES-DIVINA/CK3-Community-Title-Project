@@ -1,0 +1,11 @@
+[package]
+name = "ck3_community_title_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+tera = "1"
+jomini = { version = "0.23" }
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.9"
